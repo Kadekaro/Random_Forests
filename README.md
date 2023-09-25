@@ -21,11 +21,11 @@ Onde Encontrar Recursos Úteis
 
 Se você deseja aprender mais sobre Florestas Aleatórias, aqui estão algumas fontes úteis:
 
-[Scikit-Learn - Random Forests]
+[Scikit-Learn - Random Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
-[Towards Data Science - A Gentle Introduction to Random Forests]
+[Towards Data Science - A Gentle Introduction to Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 
-[Machine Learning Mastery - Random Forests for Machine Learning]
+[Machine Learning Mastery - Random Forests for Machine Learning](https://machinelearningmastery.com/random-forest-ensemble-in-python/)
 
 Essas fontes oferecem tutoriais detalhados, exemplos práticos e insights valiosos sobre como usar e compreender as Florestas Aleatórias em seus projetos de aprendizado de máquina.
 
