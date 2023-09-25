@@ -21,9 +21,9 @@ Onde Encontrar Recursos Úteis
 
 Se você deseja aprender mais sobre Florestas Aleatórias, aqui estão algumas fontes úteis:
 
-Scikit-Learn - Random Forests
-Towards Data Science - A Gentle Introduction to Random Forests
-Machine Learning Mastery - Random Forests for Machine Learning
+Scikit-Learn - Random Forests #li
+Towards Data Science - A Gentle Introduction to Random Forests #li
+Machine Learning Mastery - Random Forests for Machine Learning #li
 Essas fontes oferecem tutoriais detalhados, exemplos práticos e insights valiosos sobre como usar e compreender as Florestas Aleatórias em seus projetos de aprendizado de máquina.
 
 Em resumo, as Florestas Aleatórias são uma técnica poderosa que pode melhorar significativamente o desempenho de seus modelos de aprendizado de máquina. Compreender como elas funcionam e quando usá-las é uma habilidade valiosa para qualquer cientista de dados ou engenheiro de aprendizado de máquina.
